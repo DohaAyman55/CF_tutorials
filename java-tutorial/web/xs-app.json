@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "source": "^/javaApp/(.*)$",
+      "target": "$1",
+      "destination": "javaApp"
+    }
+  ]
+}

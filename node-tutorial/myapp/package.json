@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "20.x.x"
+  },
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sap/xsenv": "^6.0.0",
+    "@sap/xssec": "^4.9.1",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "passport": "^0.7.0"
+  }
+}
